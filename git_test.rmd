@@ -14,3 +14,10 @@ Howdy, partner!
 Hey there!! Excited to collaborate :)
 
 Me too! What luck that we were paired with a friendddddd!!
+
+Love that! Gonna add a useless plot for fun 
+
+```{r}
+plot(1:10)
+```
+
